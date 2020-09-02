@@ -1,4 +1,4 @@
 # learngit
 learngit from liaoxuefeng
-git is a version control system
+git is a distributed version control system
 git is free software
